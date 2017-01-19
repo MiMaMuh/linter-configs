@@ -1,0 +1,36 @@
+{
+  "name": "linter-configs",
+  "version": "1.0.0",
+  "description": "Our custom linter settings",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiMaMuh/linter-configs.git"
+  },
+  "keywords": [
+    "linting",
+    "rules"
+  ],
+  "author": "Michael Neumair <7q7w7e7r@gmail.com> (http://michaelneumair.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiMaMuh/linter-configs/issues"
+  },
+  "homepage": "https://github.com/MiMaMuh/linter-configs#readme",
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-import-resolver-meteor": "^0.3.4",
+    "eslint-plugin-babel": "^4.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-mocha": "^4.8.0",
+    "eslint-plugin-react": "^6.9.0"
+  }
+}
