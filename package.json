@@ -2,7 +2,7 @@
   "name": "linter-configs",
   "version": "1.0.0",
   "description": "Our custom linter settings",
-  "main": ".eslintrc.js",
+  "main": "",
   "directories": {
     "test": "tests"
   },
